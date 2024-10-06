@@ -1,5 +1,6 @@
 // Code your design here
-module stuckatone #(
+
+/* module stuckatone #(
     parameter N = 32
 )(
     input clk,
@@ -38,4 +39,5 @@ module stuckatone #(
 
   end   
 
-endmodule
+endmodule */
+
